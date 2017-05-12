@@ -5,3 +5,6 @@ add something
 delete later...
 
 git version backroll.
+
+
+check stage.
